@@ -81,4 +81,4 @@ with tab2:
     st.write("- **Key Features**: Age, Water-Cement Ratio, Total Binder")
 
 st.markdown("---")
-st.markdown("Made with ❤️ by Uche • [GitHub Repo](https://github.com/yourusername/concrete-strength-predictor)")
+st.markdown("Made with ❤️ by Uche • [GitHub Repo](https://github.com/Uche-creator-debug/concrete-strength-predictor.git)")
