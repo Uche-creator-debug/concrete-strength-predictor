@@ -72,6 +72,13 @@ if st.button("🚀 Predict Compressive Strength", type="primary"):
     else:
         st.warning("Lower Strength Concrete")
 
+# Add this after the prediction section
+with st.expander("📊 Model Information"):
+    st.write("**Model Performance**")
+    st.write("- R² Score: **0.9445**")
+    st.write("- MAE: **2.57 MPa**")
+    st.write("- Best Features: Age, Total Binder, Water-Cement Ratio")
+
 # Add footer
 st.markdown("---")
 st.markdown("Built with ❤️ using XGBoost + Streamlit")
