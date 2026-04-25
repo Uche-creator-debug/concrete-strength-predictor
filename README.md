@@ -2,8 +2,6 @@
 
 A machine learning web app that predicts the **28-day compressive strength** of concrete based on its mix ingredients.
 
-![Demo](https://i.imgur.com/your-screenshot-link.png) <!-- Add screenshot later -->
-
 ### Features
 - Built with **XGBoost** (R² = 0.9445)
 - Interactive Streamlit interface
